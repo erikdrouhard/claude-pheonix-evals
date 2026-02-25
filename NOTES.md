@@ -135,6 +135,37 @@ Can ask claude what was the last trace in pheonix so it can trace what you were 
 - Will the agent have taste? Some agent harnesses do but you can build it into SKILLS
 
 
+- You can prompt it to come up with a hypothesis.
+
+- Voice to text
+
+- Are you doing the analysis in pheonix?
+- He's doing it with its own memory system directly in the agent right now.
+
+- UX that forced you do to the open coding then you can have an agent also do open coding to compare the delta.
+
+
+- Don't forget he has SKILLS that are set up with his own taste to use Pheonix
+
+- After the hypothesis step, you can have the agent design an experiment to test the hypothesis. You can have it run the experiment and then analyze the results.
+
+- Prove me right or prove me wrong through evals.
+
+- Experiment is similar to scientific method. 
+  - Control variables
+  - System prompt of agent
+  - Can you change it to give it better grounding?
+
+
+- Use ASCII in terminal instead of MD. you can have a skill format that.
+
+- Experiment is when you already have an eval its basically one one of a test.
+- When you run it again you change 1 metric and then you can compare the results to see if it improved or not.
+
+- **Separate to the evals themselves**: the question they are trying to answer in this mini class is "Will agents be able to write evals?"
+
+
+
 ---
 
 
